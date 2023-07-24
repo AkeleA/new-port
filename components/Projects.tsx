@@ -16,7 +16,7 @@ const Projects: React.FC = () => {
           </span>{" "}
           <span className="w-[511px] h-px bg-purple-400 flex-none order-1 flex-grow mt-[20.5px]"></span>
         </h1>
-        <Link href="/pprojects.tsx">
+        <Link href="/projects">
           <button className="top-0 left-[901px] absolute w-32 h-5 not-italic font-medium text-base leading-5 text-white">
             View all &#x21DD;{" "}
           </button>
