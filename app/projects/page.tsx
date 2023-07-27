@@ -5,6 +5,7 @@ import Sidebar from "@/components/Sidebar";
 import Link from "next/link";
 import Top from "./top";
 import Comprojs from "./comprojs";
+import Uncomprojs from "./uncomprojs";
 
 type Props = {};
 
@@ -15,6 +16,7 @@ const gprojects: React.FC<Props> = (props) => {
       <Navbar />
       <Top />
       <Comprojs />
+      <Uncomprojs />
     </div>
   );
 };

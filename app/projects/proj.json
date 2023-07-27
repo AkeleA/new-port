@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Lilies Place",
+    "description": "An food ordering web app",
+    "image": "/place.jpg",
+    "languages": ["JavaScript", "REACT", "SCSS"],
+    "projectLink": "https://lilies-place.netlify.app/",
+    "githubLink": "https://github.com/AkeleA/forfoodies"
+  },
+  {
+    "name": "SpillTheTea",
+    "description": "A mini chat app",
+    "image": "/spillit.jpg",
+    "languages": ["React", "Firebase", "CSS"],
+    "projectLink": "https://spillit.netlify.app/",
+    "githubLink": "https://github.com/AkeleA/SpillTheTea/tree/master"
+  },
+  {
+    "name": "RandQuot",
+    "description": "A web app which provides facts",
+    "image": "/RandQuot.jpg",
+    "languages": ["React", "Axios", "CSS"],
+    "projectLink": "https://akelea.github.io/RandQuot/",
+    "githubLink": "https://github.com/AkeleA/RandQuot"
+  },
+  {
+    "name": "David Chu's ",
+    "description": "A restuarant app",
+    "image": "/DavidChu.jpg",
+    "languages": ["JavaScript", "HTML", "CSS"],
+    "projectLink": "https://akelea.github.io/Coursera-tests/Module_5_Assignment/",
+    "githubLink": "https://github.com/AkeleA/Coursera-tests/tree/master/Module_5_Assignment"
+  },
+  {
+    "name": "ToDo",
+    "description": "A mini todo web app",
+    "image": "/todo.jpg",
+    "languages": ["React", "CSS"],
+    "projectLink": "https://akelea.github.io/Todo-App/",
+    "githubLink": "https://github.com/AkeleA/Todo-App"
+  }
+]

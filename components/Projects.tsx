@@ -76,7 +76,7 @@ const Projects: React.FC = () => {
               height={201}
             />
           </div>
-          <h2 className="flwx flex-row items-start p-2 gap-2 w-[330.58px] h-[37px] flex-none order-1 self-stretch flex-grow-0">
+          <h2 className="flex flex-row items-start p-2 gap w-[330.58px] h-[37px] flex-none order-1 self-stretch flex-grow-0">
             <span className="w-12 h-5 not-italic font-sans font-normal text-base leading-5 text-gray-500 flex-none order-none flex-grow-0">
               {" "}
               HTML{" "}

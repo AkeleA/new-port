@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Clownish",
+    "description": "An food ordering web app",
+    "image": "/clownish.jpg",
+    "languages": ["JavaScript", "REACT", "SCSS"],
+    "projectLink": "https://clownish.netlify.app/",
+    "githubLink": "https://github.com/AkeleA/clownish"
+  }
+]
