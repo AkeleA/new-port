@@ -1,0 +1,28 @@
+{
+  "Languages": {
+    "TypeScript": true,
+    "JavaScript": true
+  },
+  "Databases": {
+    "MySQL": true,
+    "Mongo": true
+  },
+  "Tools": {
+    "VSCode": true,
+    "Netlify": true,
+    "FIGMA": true,
+    "Git": true
+  },
+  "Others": {
+    "HTML": true,
+    "CSS": true,
+    "SCSS": true,
+    "REST": true
+  },
+  "Frameworks": {
+    "React": true,
+    "NextJS": true,
+    "TailwindCSS": true,
+    "Bootstrap": true
+  }
+}
