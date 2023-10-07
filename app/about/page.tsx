@@ -5,6 +5,7 @@ import Sidebar from "@/components/Sidebar";
 import Footer from "@/components/Footer";
 import AkeleProf from "./bio";
 import Akeleskills from "./skills";
+import Funfacts from "./funfacts";
 
 type Props = {};
 
@@ -16,6 +17,7 @@ const Biography = (props: Props) => {
       <Footer />
       <AkeleProf />
       <Akeleskills />
+      <Funfacts />
       <div>
         <div className="absolute box-border left-[1284px] top-[672px]">
           <Image
