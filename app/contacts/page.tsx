@@ -9,7 +9,7 @@ type Props = {};
 
 const page = (props: Props) => {
   return (
-    <div className="w-auto h-[790px]">
+    <div className="w-auto h-[490px]">
       <Sidebar />
       <Navbar />
       <Top />
